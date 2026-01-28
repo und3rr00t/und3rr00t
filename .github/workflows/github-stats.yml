@@ -1,0 +1,15 @@
+name: GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub Readme Stats
+        uses: anuraghazra/github-readme-stats@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
