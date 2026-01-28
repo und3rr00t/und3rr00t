@@ -103,7 +103,7 @@ Primary orientation:
 
 ---
 
-## Principle
+##  Principle
 
 Offensive security is not noise or automation.  
 It is patience, curiosity, and technical depth.
