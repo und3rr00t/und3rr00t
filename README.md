@@ -12,7 +12,7 @@
 
 ## Profile
 
-I am an **offensive security–focused engineer** with a strong background in **software development, Linux systems, and manual vulnerability research**.
+I am an **offensive security–focused enthusiast** with a strong background in **software development, Linux systems, and manual vulnerability research**.
 
 My interest lies in understanding how systems fail under real attack conditions, not theoretical models.  
 I focus on **breaking assumptions**, **abusing trust boundaries**, and **documenting impact clearly**.
@@ -91,8 +91,15 @@ Primary orientation:
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=und3rr00t&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=und3rr00t&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=und3rr00t&layout=compact&theme=radical&hide_border=true&count_private=true" />
+</p>
+
+
+
 
 ---
 
