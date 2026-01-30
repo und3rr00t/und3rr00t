@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=osm-pixle&label=Profile%20Views&color=red&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=und3rr00t&label=Profile%20Views&color=red&style=flat" />
 </p>
 
 ---
@@ -91,11 +91,11 @@ Primary orientation:
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=und3rr00t&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=und3rr00t&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=ghostops" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=und3rr00t&layout=compact&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=und3rr00t&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&v=ghostops" />
 </p>
 
 
