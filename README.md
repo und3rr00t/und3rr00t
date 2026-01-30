@@ -90,11 +90,13 @@ Primary orientation:
 
 ## GitHub Activity
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=und3rr00t&theme=radical" alt="GitHub Summary" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=und3rr00t&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=und3rr00t&theme=radical" alt="Language Ranking" />
+</p>
 
 ---
 
