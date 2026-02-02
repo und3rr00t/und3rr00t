@@ -52,7 +52,6 @@ Primary orientation:
 - JavaScript (web attack surface understanding)
 
 ### Web & Backend
-- React, Angular
 - Django, Node.js
 - REST APIs and authentication flows
 
